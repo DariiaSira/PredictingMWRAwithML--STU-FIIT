@@ -67,8 +67,3 @@ For more details about the dataset, refer to the [dataset](https://github.com/Da
 
 ---
 
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/iau-malware-detection.git
