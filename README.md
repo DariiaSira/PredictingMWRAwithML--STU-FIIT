@@ -26,7 +26,7 @@ The dataset contains logs of Android mobile devices collected using the [Rapid7 
   - Skewed distributions.
   - Inconsistent formats.
 
-For more details about the dataset, refer to the [dataset]().
+For more details about the dataset, refer to the [dataset](https://github.com/DariiaSira/PredictingMWRAwithML--STU-FIIT/tree/main/dataset).
 
 ---
 
